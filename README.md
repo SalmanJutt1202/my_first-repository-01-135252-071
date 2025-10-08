@@ -1,2 +1,7 @@
-# my_first-repository-01-135252-071
-My first GitHub repository
+# My First Project
+## About
+This is my first GitHub repository created in ICT Lab.
+## Student Info
+- Name: [Salman Hassan]
+- Program: BSIT
+- Date: 8 October, 2025
